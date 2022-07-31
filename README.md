@@ -5,4 +5,4 @@ This project was bootstrapped with Create React App.
 - features like - converting text to uppercase, lowercase, justified removes-extra-space.
 - text-Summary
 
-It's just an personal project which was developed while learing React
+*>* It's just an personal project which was developed while learing React
